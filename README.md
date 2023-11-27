@@ -1,8 +1,8 @@
 # Data-Science & Analytics
 
-## In this we explored the power of mapping and data visualization using Python. Over the course of three days, we engaged in hands-on projects that allowed us to gain valuable insights into data representation and analysis.
+### In this we explored the power of mapping and data visualization using Python. Over the course of three days, we engaged in hands-on projects that allowed us to gain valuable insights into data representation and analysis.
 
-## Key Topics Covered
+### Key Topics Covered
 
 ### Day 1: Advanced Mapping with Cartopy
 
